@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Totals for SponsorKliks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-15 22:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Peter Boekelaar peter@boekelaar.org\n"
+"Language-Team: Nederlands\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. Name of the plugin
+msgid "Totals for SponsorKliks"
+msgstr ""
+
+#. Description of the plugin
+#: totals-for-sponsorkliks.php:43
+msgid ""
+"This plugin shows you the total commission, earned using SponsorKliks"
+msgstr ""
+
+#: totals-for-sponsorkliks.php:77
+msgid "New title"
+msgstr ""
+
+#: totals-for-sponsorkliks.php:80
+msgid "Total commission:"
+msgstr ""
+
+#: totals-for-sponsorkliks.php:85
+msgid "Club ID:"
+msgstr ""
+
+#: totals-for-sponsorkliks.php:90
+msgid "Title:"
+msgstr ""
+
+#: totals-for-sponsorkliks.php:93
+msgid "Show SponsorKliks logo:"
+msgstr ""
+
+#: totals-for-sponsorkliks.php:97
+msgid "Commission type:"
+msgstr ""
+
+#: totals-for-sponsorkliks.php:99
+msgid "Total"
+msgstr ""
+
+#: totals-for-sponsorkliks.php:100
+msgid "Transferred"
+msgstr ""
+
+#: totals-for-sponsorkliks.php:101
+msgid "Qualified"
+msgstr ""
+
+#: totals-for-sponsorkliks.php:102
+msgid "Pending"
+msgstr ""
+
+#: totals-for-sponsorkliks.php:106
+msgid "Prefix title amount:"
+msgstr ""
